@@ -5,7 +5,7 @@ Designed to offer a smooth, quick, and user-friendly calculation experience.
 ---
 
 ## 🚀 Live Demo  
-👉 **[SimpleCalc Web App]()**
+👉 **[SimpleCalc Web App](https://akshay-kumar-06.github.io/SimpleCalc/)**
 
 ---
 
