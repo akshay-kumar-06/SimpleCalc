@@ -5,12 +5,13 @@ Designed to offer a smooth, quick, and user-friendly calculation experience.
 ---
 
 ## 🚀 Live Demo  
-👉 **[SimpleCalc Web App](https://promptengassistant.streamlit.app/)**
+👉 **[SimpleCalc Web App]()**
 
 ---
 
 ## 📂 Related Project  
 🔗 **[PromptEngAssistant Repository](https://github.com/akshay-kumar-06/PromptEngAssistant)**
+🔗 **[PromptEngAssistant App](https://promptengassistant.streamlit.app/)**
 
 ---
 
@@ -39,7 +40,7 @@ Designed to offer a smooth, quick, and user-friendly calculation experience.
 ## 📥 Run Locally  
 ```bash
 git clone https://github.com/your-username/SimpleCalc.git
-
+```
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
